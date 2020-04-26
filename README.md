@@ -6,7 +6,8 @@ test
 
 [[_TOC_]]
 
-###Installation
+##Installation
 asdasd
-###Usage
+
+##Usage
 asdad

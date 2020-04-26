@@ -1,13 +1,13 @@
 # generator
 Generator for readme
 
-## test
+## test2
 test
 
-[[_TOC_]]
+- [Installation][#Installation]
+- [Usage][#Usage]
 
-##Installation
-asdasd
-
-##Usage
+### Installation
 asdad
+### Usage
+asdasd

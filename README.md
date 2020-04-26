@@ -1,13 +1,13 @@
-# generator
-Generator for readme
-
-## test2
+# test
 test
 
-- [Installation][#Installation]
-- [Usage][#Usage]
+#### Table of Contents
+- [Installation](#Installation)
+- [Usage](#Usage)
 
-### Installation
-asdad
-### Usage
+...snip...   
+
+## Installation
+sdad
+## Usage
 asdasd

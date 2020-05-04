@@ -1,0 +1,34 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "A readme generator using a command-line application that dynamically generates a README.md from a user's input.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs": "^0.0.1-security",
+    "handlebars": "^4.7.6",
+    "inquirer": "^7.1.0",
+    "rxjs": "^6.5.5",
+    "util": "^0.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zypherone/md-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "markdown",
+    "cli",
+    "generator"
+  ],
+  "author": "Zypherone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zypherone/md-generator/issues"
+  },
+  "homepage": "https://github.com/Zypherone/md-generator#readme"
+}

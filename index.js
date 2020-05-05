@@ -31,7 +31,10 @@ const writeFileAsync = util.promisify(fs.writeFile);
 
   
     // Let write the readme.md file and with compiled template.
-    await writeFileAsync(dir + '/README.md', template(resp)).catch(err => {
+    await writeFileAsync(dir + '/README.md', template(resp))
+    .then(() => {
+      console.log('Readme file created!');
+    }).catch(err => {
       console.log(err);
     })
     
